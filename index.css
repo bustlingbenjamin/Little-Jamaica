@@ -1,0 +1,16 @@
+.fa{
+    size: 2px;
+
+
+.background{
+    background-image: url("Pics/background.jpg");
+    background-size: cover;
+    transform-origin: center center 0;
+    width: cover;
+    height:cover;
+    background-position: auto;
+}
+
+#Home{
+    background-color: 15px;
+}
